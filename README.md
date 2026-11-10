@@ -44,7 +44,7 @@ Database yang digunakan bernama `db_jualbeli`, terdiri dari 4 tabel utama yang s
 # Penjelasan Struktur Direktori & Fungsi File
 
 Berikut adalah rincian direktori proyek **`program`** beserta penjelasan isi dan fungsi masing-masing berkas:
-
+```text
 program/
 ├── config/
 │   └── db.php             # Mengelola koneksi database MySQL menggunakan PDO dengan Exception Handling
@@ -63,8 +63,14 @@ program/
 ├── index.php              # Front Controller & Router utama yang mengatur alur logika request (GET/POST)
 └── style.css              # Berkas Cascading Style Sheets kustom dengan tema visual Dark & Flame (Hitam & Oranye)
 
+```
+
 ---
 
-# Dokumentasi Video
-Dokumentasi demonstrasi dapat diakses melalui tautan berikut: 
+## 🎥 Dokumentasi Video
+Dokumentasi demonstrasi aplikasi dapat diakses melalui tautan berikut: 
 👉 [Tonton Video Demo Proyek (Google Drive)]([https://google.com](https://drive.google.com/drive/folders/1if546ZTGiG_G1XjFuePEOEnMRFwmLkaq?usp=sharing))
+
+
+
+
