@@ -1,6 +1,6 @@
 # Janji
 
-Saya Farah Diba Nur Malinda dengan NIM 2502083 mengerjakan Tugas Praktikum 5 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+Saya Farah Diba Nur Malinda dengan NIM 2502083 mengerjakan Tugas Praktikum 7 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 ---
 
@@ -43,7 +43,7 @@ Database yang digunakan bernama `db_jualbeli`, terdiri dari 4 tabel utama yang s
 
 # Struktur Direktori & Fungsi File
 
-Berikut adalah rincian direktori proyek **`program`** beserta penjelasan isi dan fungsi masing-masing berkas:
+Berikut rincian direktori proyek **`program`** beserta penjelasan isi dan fungsi masing-masing berkas:
 ```text
 program/
 ├── config/
