@@ -66,4 +66,7 @@ program/
 
 ---
 
-#Dokumentasi
+# Dokumentasi
+
+Video dokumentasi demonstrasi aplikasi dapat diakses melalui tautan berikut:
+[Tonton Video Demo Proyek (Google Drive)](https://drive.google.com/drive/folders/1o3xNQN_joVnpfR7VK0t1OYQO6jEJMs1A)
