@@ -13,9 +13,9 @@ Proyek ini bertujuan untuk mengimplementasikan alur kerja Model View Controller 
 # Penjelasan Fitur Utama
 
 * **Manajemen Instansi (`departments`):** Melakukan operasi CRUD (*Create, Read, Update, Delete*) untuk mendata instansi atau dinas pemerintahan yang menjadi objek transaksi.
-* **Manajemen Posisi Jabatan (`positions`):** Mengelola daftar posisi/jabatan strategis lengkap dengan pengaturan kuota kursi dan nominal mahar suap (didukung validasi angka non-negatif dan batas maksimal).
-* **Manajemen Kandidat Pejabat (`candidates`):** Mengelola data profil calon pejabat, nomor KTP, nomor telepon, hingga sumber kekayaan/aset yang digunakan untuk melamar jabatan.
-* **Manajemen Transaksi Suap (`transactions`):** Mencatat transaksi jual beli kursi jabatan dengan menghubungkan data kandidat dan posisi jabatan, dilengkapi informasi kedok pembayaran, catatan khusus, status pelantikan, dan tanggal transaksi.
+* **Manajemen Posisi Jabatan (`positions`):** Melakukan operasi CRUD (*Create, Read, Update, Delete*) untuk mengelola daftar posisi/jabatan strategis lengkap dengan pengaturan kuota kursi dan nominal mahar suap (didukung validasi angka non-negatif dan batas maksimal).
+* **Manajemen Kandidat Pejabat (`candidates`):** Melakukan operasi CRUD (*Create, Read, Update, Delete*) untuk mengelola data profil calon pejabat, nomor KTP, nomor telepon, hingga sumber kekayaan/aset yang digunakan untuk melamar jabatan.
+* **Manajemen Transaksi Suap (`transactions`):** Melakukan operasi CRUD (*Create, Read, Update, Delete*) untuk mencatat transaksi jual beli kursi jabatan dengan menghubungkan data kandidat dan posisi jabatan, dilengkapi informasi kedok pembayaran, catatan khusus, status pelantikan, dan tanggal transaksi.
 * **Keamanan & Validasi Server-Side:** Seluruh data masukan dibersihkan menggunakan `trim()`, diperiksa tipe datanya (`is_numeric()`), serta dicegah dari nilai kosong atau negatif pada level model sebelum masuk ke database.
 
 ---
@@ -41,7 +41,7 @@ Database yang digunakan bernama `db_jualbeli`, terdiri dari 4 tabel utama yang s
 
 ---
 
-# Penjelasan Struktur Direktori & Fungsi File
+# Struktur Direktori & Fungsi File
 
 Berikut adalah rincian direktori proyek **`program`** beserta penjelasan isi dan fungsi masing-masing berkas:
 ```text
@@ -67,8 +67,10 @@ program/
 
 ---
 
-## 🎥 Dokumentasi Video
+## Dokumentasi Video
+
 Dokumentasi demonstrasi aplikasi dapat diakses melalui tautan berikut: 
+
 👉 [Tonton Video Demo Proyek (Google Drive)]([https://google.com](https://drive.google.com/drive/folders/1if546ZTGiG_G1XjFuePEOEnMRFwmLkaq?usp=sharing))
 
 
