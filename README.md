@@ -18,7 +18,7 @@ Proyek ini bertujuan untuk mengimplementasikan alur kerja Model View Controller 
 * **Manajemen Transaksi Suap (`transactions`):** Mencatat transaksi jual beli kursi jabatan dengan menghubungkan data kandidat dan posisi jabatan, dilengkapi informasi kedok pembayaran, catatan khusus, status pelantikan, dan tanggal transaksi.
 * **Keamanan & Validasi Server-Side:** Seluruh data masukan dibersihkan menggunakan `trim()`, diperiksa tipe datanya (`is_numeric()`), serta dicegah dari nilai kosong atau negatif pada level model sebelum masuk ke database.
 
---
+---
 
 # Penjelasan Struktur Database
 
@@ -39,6 +39,7 @@ Database yang digunakan bernama `db_jualbeli`, terdiri dari 4 tabel utama yang s
 
 <img width="1027" height="389" alt="db" src="https://github.com/user-attachments/assets/4f44b570-cb40-494b-ba6d-2b0c738182bf" />
 
+---
 
 # Penjelasan Struktur Direktori & Fungsi File
 
@@ -62,3 +63,7 @@ program/
 │   └── transactions.php   # Antarmuka pengguna (UI) & form input untuk entitas Transaksi Suap
 ├── index.php              # Front Controller & Router utama yang mengatur alur logika request (GET/POST)
 └── style.css              # Berkas Cascading Style Sheets kustom dengan tema visual Dark & Flame (Hitam & Oranye)
+
+---
+
+#Dokumentasi
