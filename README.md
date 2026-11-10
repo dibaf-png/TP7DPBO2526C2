@@ -6,7 +6,7 @@ Saya Farah Diba Nur Malinda dengan NIM 2502083 mengerjakan Tugas Praktikum 5 dal
 
 # Sistem Jual Beli Jabatan di Pemerintahan
 
-Proyek ini bertujuan untuk mengimplementasikan alur kerja Model View Controller (MVC), penggunaan PDO (PHP Data Objects), dan Prepared Statements untuk keamanan. Proyek ini juga dibuat menggunakan PHP Native dengan menerapkan konsep Object-Oriented Programming (OOP)
+Proyek ini bertujuan untuk mengimplementasikan alur kerja Model View Controller (MVC), penggunaan PDO (PHP Data Objects), dan Prepared Statements untuk keamanan. Proyek ini juga dibuat menggunakan PHP Native dengan menerapkan konsep Object Oriented Programming (OOP)
 
 ---
 
